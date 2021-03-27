@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to my data analytics portfolio!"
+title: "Welcome to My Data Analytics Portfolio!"
 ---
 
 Use the left arrow to go back!
